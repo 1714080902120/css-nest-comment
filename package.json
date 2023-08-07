@@ -2,10 +2,14 @@
   "name": "css-nest-comment",
   "displayName": "css-nest-comment",
   "description": "a plugin help you bypass exist comment",
+  "publisher": "1714080902120",
   "version": "0.0.1",
-  "logo": "logo.jpg",
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.78.0"
+  },
+  "repository": {
+    "url": "https://github.com/1714080902120/css-nest-comment"
   },
   "categories": [
     "Other"
